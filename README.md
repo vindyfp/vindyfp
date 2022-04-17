@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @vindyfp
+- 🌱 I’m currently learning Data Science
